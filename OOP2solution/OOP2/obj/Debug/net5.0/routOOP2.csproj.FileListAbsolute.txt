@@ -1,0 +1,16 @@
+U:\projects with c#\routOOP2solution\routOOP2\bin\Debug\net5.0\routOOP2.exe
+U:\projects with c#\routOOP2solution\routOOP2\bin\Debug\net5.0\routOOP2.deps.json
+U:\projects with c#\routOOP2solution\routOOP2\bin\Debug\net5.0\routOOP2.runtimeconfig.json
+U:\projects with c#\routOOP2solution\routOOP2\bin\Debug\net5.0\routOOP2.runtimeconfig.dev.json
+U:\projects with c#\routOOP2solution\routOOP2\bin\Debug\net5.0\routOOP2.dll
+U:\projects with c#\routOOP2solution\routOOP2\bin\Debug\net5.0\routOOP2.pdb
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.csproj.AssemblyReference.cache
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.GeneratedMSBuildEditorConfig.editorconfig
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.AssemblyInfoInputs.cache
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.AssemblyInfo.cs
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.csproj.CoreCompileInputs.cache
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.dll
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\refint\routOOP2.dll
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.pdb
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\routOOP2.genruntimeconfig.cache
+U:\projects with c#\routOOP2solution\routOOP2\obj\Debug\net5.0\ref\routOOP2.dll
